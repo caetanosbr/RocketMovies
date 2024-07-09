@@ -10,7 +10,7 @@ import { FiMail, FiLock } from "react-icons/fi"
 import { Input } from "../../components/Input"
 import { Button } from "../../components/Button";
 
-export function Signin(){
+export function SignIn(){
     const [email , setEmail] = useState("");
     const [password , setPassword] = useState("");
     
