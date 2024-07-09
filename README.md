@@ -60,7 +60,7 @@ npm run dev
 ---
 
 Deploy:
-  [Clicque aqui para acessar o Projeto!](https://rocket-notes-plum.vercel.app/)
+  [Clicque aqui para acessar o Projeto!](https://rocket-movies-x.vercel.app/)
 
 
 By Thiago Caetano :wave: 
