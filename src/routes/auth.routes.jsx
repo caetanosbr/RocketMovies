@@ -11,7 +11,7 @@ export function AuthRouts(){
         //O componente Routes envolverá todas as minhas rotas
         //O componente Route receberá a página em questão e indicará qual endereço de URL referencia cada página
         <Routes>
-            <Route path="/" element={<Signin />}/>
+            <Route path="/" element={<SignIn />}/>
             <Route path="/register" element={<SignUp />}/>
         </Routes>
     )
